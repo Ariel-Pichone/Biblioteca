@@ -1,0 +1,66 @@
+<list>
+  <br.edu.femass.biblioteca.model.Livro>
+    <nome>Livro1</nome>
+    <edicao>1ª Edição 2022</edicao>
+    <genero>Academico</genero>
+    <autores>
+      <br.edu.femass.biblioteca.model.Autor>
+        <nome>Ariel</nome>
+        <sobrenome>Oliveira</sobrenome>
+      </br.edu.femass.biblioteca.model.Autor>
+    </autores>
+    <copias>
+      <br.edu.femass.biblioteca.model.Copia>
+        <codigo>1</codigo>
+        <fixo>true</fixo>
+        <disponivel>false</disponivel>
+      </br.edu.femass.biblioteca.model.Copia>
+    </copias>
+  </br.edu.femass.biblioteca.model.Livro>
+  <br.edu.femass.biblioteca.model.Livro>
+    <nome>Livro2</nome>
+    <edicao>Edição de Lançamento 2022</edicao>
+    <genero>Nacional</genero>
+    <autores>
+      <br.edu.femass.biblioteca.model.Autor>
+        <nome>Ariel</nome>
+        <sobrenome>Oliveira</sobrenome>
+      </br.edu.femass.biblioteca.model.Autor>
+    </autores>
+    <copias>
+      <br.edu.femass.biblioteca.model.Copia>
+        <codigo>2</codigo>
+        <fixo>true</fixo>
+        <disponivel>false</disponivel>
+      </br.edu.femass.biblioteca.model.Copia>
+      <br.edu.femass.biblioteca.model.Copia>
+        <codigo>4</codigo>
+        <fixo>false</fixo>
+        <disponivel>true</disponivel>
+      </br.edu.femass.biblioteca.model.Copia>
+      <br.edu.femass.biblioteca.model.Copia>
+        <codigo>5</codigo>
+        <fixo>false</fixo>
+        <disponivel>true</disponivel>
+      </br.edu.femass.biblioteca.model.Copia>
+    </copias>
+  </br.edu.femass.biblioteca.model.Livro>
+  <br.edu.femass.biblioteca.model.Livro>
+    <nome>LivroTeste3</nome>
+    <edicao>2 Edicao 2022</edicao>
+    <genero>Ficcao</genero>
+    <autores>
+      <br.edu.femass.biblioteca.model.Autor>
+        <nome>Ariel</nome>
+        <sobrenome>de Oliveira</sobrenome>
+      </br.edu.femass.biblioteca.model.Autor>
+    </autores>
+    <copias>
+      <br.edu.femass.biblioteca.model.Copia>
+        <codigo>6</codigo>
+        <fixo>true</fixo>
+        <disponivel>false</disponivel>
+      </br.edu.femass.biblioteca.model.Copia>
+    </copias>
+  </br.edu.femass.biblioteca.model.Livro>
+</list>

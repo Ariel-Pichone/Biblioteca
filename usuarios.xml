@@ -1,0 +1,15 @@
+<list>
+  <br.edu.femass.biblioteca.model.Aluno>
+    <nome>Ariel Oliveira</nome>
+    <prazoDevolucao>5</prazoDevolucao>
+    <emprestimos/>
+    <count>0</count>
+    <matricula>123456</matricula>
+  </br.edu.femass.biblioteca.model.Aluno>
+  <br.edu.femass.biblioteca.model.Professor>
+    <nome>Fulano de Tal</nome>
+    <prazoDevolucao>30</prazoDevolucao>
+    <emprestimos/>
+    <count>0</count>
+  </br.edu.femass.biblioteca.model.Professor>
+</list>
